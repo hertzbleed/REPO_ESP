@@ -23,6 +23,6 @@ Currently it does the following:
 - COMPILE USING VS2022
 ----------- 
 ###HOW TO INJECT:
-
 1. open cmd and run:
 2. cd C:\Users\YOUR USER\Desktop\smi.exe inject -p REPO -a "RSEsp.dll" -n MyESP -c Loader -m Init
+------------
